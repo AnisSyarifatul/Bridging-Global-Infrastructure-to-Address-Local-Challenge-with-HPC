@@ -88,7 +88,8 @@ monitoring-kualitas-udara/
 ## Contoh Output
 
 ```text
-=== MONITORING KUALITAS UDARA ===
+MONITORING KUALITAS UDARA
+
  waktu  pm25
  08:00    12
  09:00    18
