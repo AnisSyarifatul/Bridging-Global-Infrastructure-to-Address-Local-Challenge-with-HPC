@@ -113,14 +113,6 @@ Karena nilai maksimum tersebut lebih besar daripada ambang simulasi sebesar 35, 
 
 Hasil ini menunjukkan bahwa program dapat digunakan untuk menganalisis perubahan data lingkungan, menghitung statistik sederhana, dan memberikan peringatan berdasarkan kondisi yang telah ditentukan.
 
-## Kelebihan Proyek
-
-- Memiliki kode yang sederhana dan mudah dipahami.
-- Dapat mengolah data kualitas udara dari file CSV.
-- Menghasilkan ringkasan statistik secara otomatis.
-- Menampilkan grafik untuk membantu analisis data.
-- Memiliki mekanisme peringatan berdasarkan ambang simulasi.
-
 ## Kesimpulan
 
 Proyek ini menerapkan Python untuk memantau dan menganalisis data simulasi kualitas udara PM2.5. Program mampu membaca dataset, menghitung rata-rata, memeriksa nilai terhadap ambang simulasi, serta menampilkan grafik perubahan konsentrasi berdasarkan waktu.
